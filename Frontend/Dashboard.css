@@ -1,0 +1,38 @@
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Set body height to viewport height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Set default text color */
+}
+
+#weather-info {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 80%;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better text visibility */
+    border-radius: 3px;
+}
+
+#text-overlay {
+    color: white; /* Set text color to white */
+}
+
+#search-box {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%) translateY(10%);
+    width: 100%;
+    padding: 20px;
+    border-radius: 3px;
+    z-index: 1; /* Ensure it's above other elements */
+}
