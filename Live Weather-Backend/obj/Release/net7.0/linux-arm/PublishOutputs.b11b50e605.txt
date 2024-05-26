@@ -1,0 +1,9 @@
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\Live Weather-Backend
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\appsettings.Development.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\appsettings.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\Live Weather-Backend.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\Live Weather-Backend.deps.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\Live Weather-Backend.runtimeconfig.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\Live Weather-Backend.pdb
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\Newtonsoft.Json.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\publish\RestSharp.dll

@@ -1,0 +1,29 @@
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\appsettings.Development.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\appsettings.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\Live Weather-Backend
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\Live Weather-Backend.deps.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\Live Weather-Backend.runtimeconfig.json
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\Live Weather-Backend.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\Live Weather-Backend.pdb
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\Newtonsoft.Json.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\bin\Release\net7.0\linux-arm\RestSharp.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.csproj.AssemblyReference.cache
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.GeneratedMSBuildEditorConfig.editorconfig
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.AssemblyInfoInputs.cache
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.AssemblyInfo.cs
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.csproj.CoreCompileInputs.cache
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.MvcApplicationPartsAssemblyInfo.cache
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets\msbuild.Live Weather-Backend.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets\msbuild.build.Live Weather-Backend.props
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets\msbuild.buildMultiTargeting.Live Weather-Backend.props
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets\msbuild.buildTransitive.Live Weather-Backend.props
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets.pack.json
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets.build.json
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\staticwebassets.development.json
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\scopedcss\bundle\Live Weather-Backend.styles.css
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.csproj.CopyComplete
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\refint\Live Weather-Backend.dll
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.pdb
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\Live Weather-Backend.genruntimeconfig.cache
+A:\Github repos\Live-Weather\Live Weather-Backend\obj\Release\net7.0\linux-arm\ref\Live Weather-Backend.dll

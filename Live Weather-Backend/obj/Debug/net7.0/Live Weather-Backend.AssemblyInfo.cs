@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a2e2b013-c0bb-47a0-ad47-f98a5b0cbd7f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Live Weather-Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41baa49bd6eb29ac44a8cd5353323c1e6bd649eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Live Weather-Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Live Weather-Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

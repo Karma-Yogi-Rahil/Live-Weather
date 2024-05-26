@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+EEQzbzVeZEWtCIqJi6K7Mw03L8NDrERPC0GSvpRaFSCBMeCGahOU2RwUfrJ77uxNBuTpQV4lR8FRZiWfeYOxQ==",
+  "dgSpecHash": "bP9e5rZp1nYKCPk6okJt3DQ0LLzXSj/GgwG4wkvEK4EaRicgXw88sDENmQjha+LjYBfb5X0IBNiQ+AYTmzp38A==",
   "success": true,
   "projectFilePath": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Live Weather-Backend.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rahil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\rahil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\rahil\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
     "C:\\Users\\rahil\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",

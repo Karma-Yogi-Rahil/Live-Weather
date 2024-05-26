@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\live weather-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:live weather-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\controllers\\wethercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:controllers\\wethercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|a:\\github repos\\live-weather\\live weather-backend\\weatherparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC6C8A1-72AB-473D-BDA0-9D98F8DEEA4E}|Live Weather-Backend.csproj|solutionrelative:weatherparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-04T00:41:27.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-21T23:09:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-21T23:09:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-21T23:10:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherParameter.cs",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\WeatherParameter.cs",
+              "RelativeDocumentMoniker": "WeatherParameter.cs",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\WeatherParameter.cs",
+              "RelativeToolTip": "WeatherParameter.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAASwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-22T01:26:17.176Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Live Weather-Backend.csproj",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Live Weather-Backend.csproj",
+              "RelativeDocumentMoniker": "Live Weather-Backend.csproj",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Live Weather-Backend.csproj",
+              "RelativeToolTip": "Live Weather-Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-22T00:48:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-21T23:12:52.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-21T23:31:38.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-21T23:31:47.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WetherController.cs",
+              "DocumentMoniker": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Controllers\\WetherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WetherController.cs",
+              "ToolTip": "A:\\Github repos\\Live-Weather\\Live Weather-Backend\\Controllers\\WetherController.cs",
+              "RelativeToolTip": "Controllers\\WetherController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-22T00:32:45.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
