@@ -45,13 +45,16 @@ function updateWeather(weatherData) {
 
     // Create HTML content for weather information
     const htmlContent = `
-        <div id="text-overlay">
+    <div class="container">
+
+        <div class="card">
             <h2>${weatherData.location.name}, ${weatherData.location.region}, <br>${weatherData.location.country}</h2>
             <p>${weatherData.current.condition.text}</p>
             <p>Temperature: ${weatherData.current.temp_c}°C / ${weatherData.current.temp_f}°F</p>
             <p>Wind: ${weatherData.current.wind_kph} km/h ${weatherData.current.wind_dir}</p>
             <p>Humidity: ${weatherData.current.humidity}%</p>
             <p>Last Updated: ${weatherData.current.last_updated}</p>
+        </div>
         </div>
     `;
 

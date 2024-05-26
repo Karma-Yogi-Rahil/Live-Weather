@@ -1,38 +1,110 @@
 body {
-    margin: 0; /* Remove default margin */
-    padding: 0; /* Remove default padding */
-    height: 100vh; /* Set body height to viewport height */
+    margin: 0;
+    padding: 0;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: white; /* Set default text color */
-}
-
-#weather-info {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    max-width: 80%;
-    padding: 20px;
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better text visibility */
-    border-radius: 3px;
-}
-
-#text-overlay {
-    color: white; /* Set text color to white */
+    color: rgb(0, 0, 0);
+    background-image: url('assests/Baground.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #search-box {
+    display: flex;
+    align-items: center;
     text-align: center;
     position: fixed;
-    top: 0;
+    top: 10%;
     left: 50%;
-    transform: translateX(-50%) translateY(10%);
-    width: 100%;
+    transform: translate(-50%, -50%);
+    width: 300px;
     padding: 20px;
-    border-radius: 3px;
-    z-index: 1; /* Ensure it's above other elements */
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(104, 102, 102, 0.3);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    z-index: 2;
 }
+
+#location-input {
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0;
+    margin: 10px 10px 10px 0;
+    border: 1px solid rgba(104, 102, 102, 0.3);
+    backdrop-filter: blur(12px);
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    color: azure;
+    
+}
+
+#location-input::placeholder {
+    color: #ffffff; /* Set a color for the placeholder text */
+}
+
+button {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(104, 102, 102, 0.3);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #fea43c;
+    color: rgb(255, 255, 255);
+}
+
+.container {
+    width: 40vmax;
+    height: 40vmax;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden; /* Clip the image within the circle */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1; /* Ensure the image is above the card */
+}
+
+
+#profile-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio and cover the entire circle */
+}
+
+.card {
+    width: 90%;
+    max-width: 700px;
+    color: #fff;
+    text-align: center;
+    padding: 25px 25px;
+    border: 1px solid rgba(104, 102, 102, 0.3);
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.046);
+    backdrop-filter: blur(5px);
+    z-index: 0; 
+}
+
